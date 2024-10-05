@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Watchy</string>
+    <string name="couldn_t_load_data">Couldn\'t load data</string>
+    <string name="see_all">See all</string>
+    <string name="categories">Categories</string>
+    <string name="movies">Movies</string>
+    <string name="trending">Trending</string>
+    <string name="tv_series">TV Series</string>
+    <string name="special">Special</string>
+    <string name="search_a_movie_or_tv_series">search a movie or tv series</string>
+    <string name="favourites_and_bookmarks">favourites and bookmarks</string>
+</resources>
